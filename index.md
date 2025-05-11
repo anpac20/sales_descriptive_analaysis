@@ -68,29 +68,6 @@ Findings:
 
 - For a business operating in an oil-dependent economy, this insight can support pricing and promotional strategies during periods of economic volatility.
 
-## 6. Demand Profiles: Smooth, Erratic or Lumpy?
-To assess forecastability, I calculate two key metrics:
-
-ADI (Average Demand Interval): measures how frequently products are sold.
-
-CV² (Coefficient of Variation squared): measures sales quantity variability.
-
-Using these, I classify demand into:
-
-- Smooth
-- Intermittent
-- Erratic
-- Lumpy
-
-Results:
-
-- Most product-store combinations are classified as "Lumpy" or "Erratic", meaning their demand is hard to predict.
-
-- Only ~27% of the combinations are "Smooth" and easy to forecast.
-
-- This helps teams decide which products can be managed with automated forecasts and which need safety stock or special treatment.
-
-## 7. Predictive Analysis
 
 ## 8. Recomendations
 
