@@ -43,11 +43,19 @@ Here, I examine the relationship between promotional activity and sales volume.
 
 Findings:
 
-- There is a moderate positive correlation between the number of promoted items and sales (r ≈ 0.43).
+- There is a moderate correlation between the number of promoted items and sales (r = 0.57) that suggests that promotions positively impact sales. 
 
-- The effect varies across product families: in some categories, promotions strongly drive sales; in others, the impact is limited.
+[corr-total](images/corr-total.png)
 
-- This analysis can help marketing teams decide where to focus discounts and promotions for better ROI.
+- The effect varies across product families: in some categories, promotions strongly drive sales; in others, the impact is limited. The effect is stronger in categories like Beverages (0.60), supporting more targeted marketing strategies.
+
+[corr-family](images/corr-family.png)
+
+- Stores
+
+[corr-store](images/corr-store.png)
+
+
 
 ## 5. Oil Prices vs. Sales: External Economic Influence
 This section investigates whether sales patterns are influenced by oil prices.
