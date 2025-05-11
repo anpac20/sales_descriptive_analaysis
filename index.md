@@ -45,15 +45,15 @@ Findings:
 
 - There is a moderate correlation between the number of promoted items and sales (r = 0.57) that suggests that promotions positively impact sales. 
 
-[corr-total](images/corr-total.png)
+![corr-total](images/corr-total.png)
 
 - The effect varies across product families: in some categories, promotions strongly drive sales; in others, the impact is limited. The effect is stronger in categories like Beverages (0.60), supporting more targeted marketing strategies.
 
-[corr-family](images/corr-family.png)
+![corr-family](images/corr-family.png)
 
 - Stores
 
-[corr-store](images/corr-store.png)
+![corr-store](images/corr-store.png)
 
 
 
