@@ -29,9 +29,11 @@ Highlights:
 
 - A small number of product families (e.g., GROCERY I, BEVERAGES, PRODUCE) generate the majority of sales.
 
-[image]
+![pareto-families](images/pareto-families.png)
 
-- Only a handful of stores drive over 50% of total revenue.
+- 13 stores drive over 50% of total revenue.
+![pareto-stores](images/pareto-stores.png)
+
 
 - A Pareto-like effect is clearly present, suggesting prioritization opportunities.
 
