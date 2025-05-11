@@ -1,6 +1,6 @@
 [Git repo](https://github.com/anpac20/sales_descriptive_analaysis)
 
-## 1. Business hipothesys
+## 1. Business hypothesis
 In this project, I use real sales data from Favorita stores in Ecuador to explore how data analysis can support revenue growth. The main goal is to translate raw data into insights that answer actual business questions and help stakeholders make better decisions.
 
 Key questions:
