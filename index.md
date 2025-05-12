@@ -51,7 +51,7 @@ Findings:
 
 ![corr-family](images/corr-family.png)
 
-- Stores
+- The same bevavior can be seen for stores:
 
 ![corr-store](images/corr-store.png)
 
@@ -64,9 +64,14 @@ Findings:
 
 - There is a negative correlation between oil prices and sales (r ≈ -0.63).
 
-- When oil prices drop, consumer spending seems to increase, possibly due to macroeconomic relief.
+![corr-prom-total](corr-prom-total.png)
+
+- The correlation is higher for categories like PRODUCE (r = -0.65) and BEVERAGES (r = -0.63), suggesting that when oil prices drop, consumer spending seems to increase in these categories, possibly due to macroeconomic relief.
+
+![corr-prom-family](images/corr-prom-family.png)
 
 - For a business operating in an oil-dependent economy, this insight can support pricing and promotional strategies during periods of economic volatility.
+
 
 
 ## 8. Recomendations
